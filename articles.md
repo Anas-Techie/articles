@@ -15,7 +15,7 @@ Backend {
 }
 
 AI {
-- [visit](https://ruben.substack.com/)
+- https://ruben.substack.com/
 }
 
 SKILLS {
